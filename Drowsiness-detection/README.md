@@ -27,7 +27,7 @@ The project utilizes established open-source libraries like dlib, imutils, and p
 1. Clone the repository:
     
     ```
-    git clone https://github.com/gxutxm/Drowsiness-detection.git
+    git clone https://github.com/imafshanali/Drowsiness-detection.git
     ```
     
 2. Install the required dependencies:
@@ -45,7 +45,7 @@ The project utilizes established open-source libraries like dlib, imutils, and p
     ```
     
 3. The script will initialise the camera and start capturing frames.
-4. Perform opening and closing of eyes to invoke the alert.
+4. Perform the opening and closing of eyes to invoke the alert.
 
 ## Result:
 
@@ -53,16 +53,3 @@ https://github.com/gxutxm/Drowsiness-detection/assets/81068888/02ec4ebf-1e09-474
 
 ![](images/resultvid.mp4)
 
-
-
-    
-
-## Project Structure:
-
-```
-DrowsinessDetectionProject/   # Main project directory
-├── music.wav                  # Alert sound file
-├── models/                    # Directory for model files
-│   └── shape_predictor_68_face_landmarks.dat  # Pretrained model offacial landmark prediction
-├── drowsiness_detection.py    # Python script for drowsiness detection
-```
