@@ -51,5 +51,5 @@ The project utilizes established open-source libraries like dlib, imutils, and p
 
 https://github.com/gxutxm/Drowsiness-detection/assets/81068888/02ec4ebf-1e09-474d-a420-3caaf9250f29
 
-![](images/resultvid.mp4)
+![](https://github.com/imafshanali/Drowsiness-detection/blob/main/Drowsiness-detection/images/resultvid.mp4)
 
